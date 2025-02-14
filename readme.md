@@ -29,8 +29,8 @@ G90
 ...etc
 ```
 You'll need to upload these two files to the CNC Mill via USB Stick
-- [Cutting out the profiles of the bezel and buttons]()
-- [Chamfering the edges of the bezel and buttons]()
+- [Ploopy-Adept-Trackball-Profiles.cnc](Ploopy-Adept-Trackball-Profiles.cnc)
+- [Ploopy-Adept-Trackball-Chamfering.cnc](Ploopy-Adept-Trackball-Chamfering.cnc)
 
 # returns 'words'
 foobar.pluralize('word')
