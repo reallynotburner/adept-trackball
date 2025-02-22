@@ -32,8 +32,8 @@ You'll need to upload these two files to the CNC Mill via USB Stick
 - [Ploopy-Adept-Trackball-Profiles.cnc](Ploopy-Adept-Trackball-Profiles.cnc)
 - [Ploopy-Adept-Trackball-Chamfering.cnc](Ploopy-Adept-Trackball-Chamfering.cnc)
 
-# returns 'words'
-foobar.pluralize('word')
+# Construction
+- For mounting the aluminum plate, I'm going with a procedure described in [this NYC CNC Youtube Video](https://www.youtube.com/watch?v=r6DCvtcU8_M).  
 
 # returns 'geese'
 foobar.pluralize('goose')
